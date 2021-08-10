@@ -5,4 +5,4 @@ parts used:
 - Ultrasonic Sensor
 - LED
 
-![od_arduino](https://i.imgur.com/OqGavKms.png) "full view")
+![od_arduino](https://i.imgur.com/OqGavKmm.png "full view")
